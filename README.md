@@ -13,7 +13,9 @@
 - Use JavaScript for real-time updates (e.g., price changes, inventory updates).
 - Use EJS templates to dynamically generate product pages, blog posts, and other content.
 - Include promotional top bars to notify customers about sales, new arrivals, or special offers.
-- ![1](https://github.com/user-attachments/assets/80c1c888-865d-494d-b552-68a27a11b672)
+
+###
+![1](https://github.com/user-attachments/assets/80c1c888-865d-494d-b552-68a27a11b672)
 
 ####  Features
 - `Reusable Top Bar`: Displays a 50% OFF message on the top of every page.
