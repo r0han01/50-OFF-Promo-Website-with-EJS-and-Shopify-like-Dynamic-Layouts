@@ -1,5 +1,7 @@
 ### 50% OFF Promo Website Top Bar with EJS & How Top Brands Acquire Customers
-![222](https://github.com/user-attachments/assets/fea6c582-b81a-4bbc-a288-1c9ef9b43b72)
+
+![okay](https://github.com/user-attachments/assets/0f58fb1b-8fe6-43dc-b6b1-7b19db2c01e6)
+
 #### Overview
 - This project demonstrates a simple web application that displays a 50% OFF promotion message on the top of the page. It uses EJS (Embedded JavaScript) for rendering HTML content dynamically and provides an efficient way to reuse layouts, like the top bar, across multiple pages.
 
