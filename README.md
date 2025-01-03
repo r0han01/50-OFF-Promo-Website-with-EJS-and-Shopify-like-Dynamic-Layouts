@@ -4,7 +4,13 @@
 - This project demonstrates a simple web application that displays a 50% OFF promotion message on the top of the page. It uses EJS (Embedded JavaScript) for rendering HTML content dynamically and provides an efficient way to reuse layouts, like the top bar, across multiple pages.
 
 - The website follows the general structure of many e-commerce sites (like those built with Shopify), featuring dynamic content and promotional banners that stay consistent across all pages of the site.
+### Example of Top Bar in Other Brands
+Many e-commerce websites use a top bar for promotions, similar to the one in this project. For example:
 
+- `Amazon`: Amazon often displays banners at the top for flash sales, discounts, and other offers.
+- `Nike`: Nike uses top bars to display offers on new product launches and sales events.
+- `Adidas`: Adidas also uses a similar layout for discounts and promotions.
+![2](https://github.com/user-attachments/assets/c25c7968-21d0-43c5-a9c9-f0c95c5b3522)
 ### Shopify and EJS Usage
 - In Shopify stores, JavaScript is heavily used for interactive elements, such as promotional banners, product carousels, and cart updates. EJS is also commonly used for dynamically rendering product information, prices, and user-specific data.
 
@@ -62,14 +68,6 @@ npm start
 - `Routes`: There are multiple routes defined for different pages. Each page has its own content, but the 50% OFF top bar is included through the layout.
 
 - `Brand Images`: Various brand images are included to demonstrate how companies use similar top bars for their promotional messaging across all pages of their websites.
-
-### Example of Top Bar in Other Brands
-Many e-commerce websites use a top bar for promotions, similar to the one in this project. For example:
-
-`Amazon`: Amazon often displays banners at the top for flash sales, discounts, and other offers.
-`Nike`: Nike uses top bars to display offers on new product launches and sales events.
-`Adidas`: Adidas also uses a similar layout for discounts and promotions.
-![2](https://github.com/user-attachments/assets/c25c7968-21d0-43c5-a9c9-f0c95c5b3522)
 
 
 
