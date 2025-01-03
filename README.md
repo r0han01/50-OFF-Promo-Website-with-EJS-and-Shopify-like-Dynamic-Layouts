@@ -10,6 +10,8 @@ Many e-commerce websites use a top bar for promotions, similar to the one in thi
 - `Amazon`: Amazon often displays banners at the top for flash sales, discounts, and other offers.
 - `Nike`: Nike uses top bars to display offers on new product launches and sales events.
 - `Adidas`: Adidas also uses a similar layout for discounts and promotions.
+
+###
 ![2](https://github.com/user-attachments/assets/c25c7968-21d0-43c5-a9c9-f0c95c5b3522)
 ### Shopify and EJS Usage
 - In Shopify stores, JavaScript is heavily used for interactive elements, such as promotional banners, product carousels, and cart updates. EJS is also commonly used for dynamically rendering product information, prices, and user-specific data.
