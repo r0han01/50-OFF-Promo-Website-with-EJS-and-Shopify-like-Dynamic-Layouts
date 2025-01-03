@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Environment variables (if you have one)
+.env
+
+# Logs
+*.log
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Package lock (optional, usually should be committed)
+# package-lock.json
