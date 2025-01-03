@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website with EJS Layouts</title>
+</head>
+<body>
+    <!-- Top bar common to all pages -->
+    <div class="top-bar" style="background-color: #ff5733; color: white; text-align: center; padding: 10px 0; font-weight: bold;">
+        50% OFF - Limited Time Offer!
+    </div>
+
+    <!-- This will render the content specific to each page -->
+    <%- body %> <!-- Body content will be injected here from individual views -->
+
+</body>
+</html>
