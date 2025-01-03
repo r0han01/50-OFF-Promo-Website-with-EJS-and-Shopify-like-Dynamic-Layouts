@@ -5,6 +5,16 @@
 
 - The website follows the general structure of many e-commerce sites (like those built with Shopify), featuring dynamic content and promotional banners that stay consistent across all pages of the site.
 
+### Shopify and EJS Usage
+- In Shopify stores, JavaScript is heavily used for interactive elements, such as promotional banners, product carousels, and cart updates. EJS is also commonly used for dynamically rendering product information, prices, and user-specific data.
+
+### Shopify websites typically:
+
+- Use JavaScript for real-time updates (e.g., price changes, inventory updates).
+- Use EJS templates to dynamically generate product pages, blog posts, and other content.
+- Include promotional top bars to notify customers about sales, new arrivals, or special offers.
+![1](https://github.com/user-attachments/assets/80c1c888-865d-494d-b552-68a27a11b672)
+
 ####  Features
 - `Reusable Top Bar`: Displays a 50% OFF message on the top of every page.
 - `Dynamic Content Rendering`: Uses EJS templates to render content on the webpage.
@@ -26,15 +36,15 @@ To get the project up and running, follow these steps:
 
 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/50-off-promo.git
-cd 50-off-promo
+git clone use_ssh_url
+cd cloned_filename
 ```
 
 2. Install Dependencies
 - This project uses Node.js and Express to serve the website. Make sure Node.js is installed on your system.
 
 ```bash
-npm install
+npm install express ejs express-ejs-layouts path
 ```
 3. Start the Server
 - Run the following command to start the Express server:
@@ -57,18 +67,8 @@ Many e-commerce websites use a top bar for promotions, similar to the one in thi
 `Amazon`: Amazon often displays banners at the top for flash sales, discounts, and other offers.
 `Nike`: Nike uses top bars to display offers on new product launches and sales events.
 `Adidas`: Adidas also uses a similar layout for discounts and promotions.
+![2](https://github.com/user-attachments/assets/c25c7968-21d0-43c5-a9c9-f0c95c5b3522)
 
-Screenshot showing how top bars are used in branding websites for promotions.
-
-### Shopify and EJS Usage
-- In Shopify stores, JavaScript is heavily used for interactive elements, such as promotional banners, product carousels, and cart updates. EJS is also commonly used for dynamically rendering product information, prices, and user-specific data.
-
-### Shopify websites typically:
-
-- Use JavaScript for real-time updates (e.g., price changes, inventory updates).
-- Use EJS templates to dynamically generate product pages, blog posts, and other content.
-- Include promotional top bars to notify customers about sales, new arrivals, or special offers.
-Screenshot of Google Search
 
 
 ## Conclusion
